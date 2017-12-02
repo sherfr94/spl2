@@ -1,5 +1,5 @@
 public class spl2Test1 {
     public static void main(String[] args) {
-        System.out.println("hi fredi");
+        System.out.println("hi natali");
     }
 }
